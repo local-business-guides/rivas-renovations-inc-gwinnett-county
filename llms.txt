@@ -24,6 +24,9 @@
 - [bathroom renovation winder in gwinnett county guide](https://local-business-guides.github.io/rivas-renovations-inc-gwinnett-county/bathroom-renovation-winder-in-gwinnett-county/): bathroom renovation winder in gwinnett county, plan a more practical bathroom with help serving Winder and Gwinnett County.
 - [best bathroom renovation winder, what homeowners should check](https://local-business-guides.github.io/rivas-renovations-inc-gwinnett-county/best-bathroom-renovation-winder/): best bathroom renovation winder, compare project fit and planning needs with a construction company serving Winder, Georgia.
 
+## Newsroom
+- [Rivas Renovations INC Shares Bathroom Renovation Guide for Winder Homeowners](https://local-business-guides.github.io/rivas-renovations-inc-gwinnett-county/news/2026-10-25-rivas-renovations-inc-shares-bathroom-renovation-g/): Rivas Renovations INC published a guide to bathroom renovation in Winder and a related YouTube video for homeowners considering a project. (2026-10-25)
+
 ## Pages
 - [Bathroom Renovation Winder in Gwinnett County, Georgia](https://local-business-guides.github.io/rivas-renovations-inc-gwinnett-county/): Make your bathroom more useful and durable with renovation and remodeling services for homeowners across Gwinnett County. Call +1470-875-8102.
 - [About Rivas Renovations INC](https://local-business-guides.github.io/rivas-renovations-inc-gwinnett-county/about/): About Rivas Renovations INC, Gwinnett County.
@@ -31,3 +34,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/rivas-renovations-inc-gwinnett-county/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/rivas-renovations-inc-gwinnett-county/news/rss.xml)

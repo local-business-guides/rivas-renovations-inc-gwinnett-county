@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/rivas-renovations-inc-gwinnett-county/sitemap.xml
+Sitemap: https://local-business-guides.github.io/rivas-renovations-inc-gwinnett-county/news-sitemap.xml
